@@ -6,6 +6,8 @@ stop when the number of packet data transferred reaches the number the user has 
 
 After brainstorming with my teammates, we created the simulation as follows
 ![DLproject_circuitFullView](https://github.com/user-attachments/assets/cc6b4421-8262-4a82-8cc2-7b28f61415a8)
+The process and sequence of creating the simulation are created into a [presentation slide](https://github.com/user-attachments/files/18760797/DLprojectPresentation.pdf) to record group members explaining how to use the simulation and
+submit it to the professor.
 
 **Reflection:**
 This project introduced me about network packet transmission monitoring system, it is an eye opening experience by researching that system and knowing what i knew 
